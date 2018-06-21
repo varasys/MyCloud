@@ -5,7 +5,7 @@ MyCloud is a personal cloud meant to completely replace iCloud, google cloud, sa
 
 The main purpose is to centralize all user data in one location fully controlled by the user; and specifically to minimize switching costs to prevent vendor lock-in to mediocre and predatory corporate products.
 
-The concept is to use [ArchLinux](https://www.archlinux.org/) on a [ZFS](http://www.open-zfs.org/wiki/Main_Page) root filesystem installed on an individuals Virtual Private Server ([VPS](https://en.wikipedia.org/wiki/Virtual_private_server)).
+The concept is to use [ArchLinux](https://www.archlinux.org/) on a [ZFS](http://www.open-zfs.org/wiki/Main_Page) root filesystem installed on an individuals Virtual Private Server ([VPS](https://en.wikipedia.org/wiki/Virtual_private_server)). This work has already started and is available at [paczfs](https://github.com/varasys/paczfs).
 
 Fundamentally, it is just a file server and some services such as a web server, smtp server, etc. with tight permissions based on the Identity Transfer Protocol - Secure ([ITPS](https://github.com/varasys/ITPS)) protocal.
 
