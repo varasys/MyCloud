@@ -1,13 +1,13 @@
 # MyCloud
-Personal Cloud for MyDroid mobile OS
+Personal Cloud for [MyDroid](https://github.com/varasys/MyDroid) mobile OS
 
 MyCloud is a personal cloud meant to completely replace iCloud, google cloud, samsung cloud, etc.
 
 The main purpose is to centralize all user data in one location fully controlled by the user; and specifically to minimize switching costs to prevent vendor lock-in to mediocre and predatory corporate products.
 
-The concept is to use ArchLinux on a ZFS root filesystem installed on an individuals Virtual Private Server (VPS).
+The concept is to use [ArchLinux](https://www.archlinux.org/) on a [ZFS](http://www.open-zfs.org/wiki/Main_Page) root filesystem installed on an individuals Virtual Private Server ([VPS](https://en.wikipedia.org/wiki/Virtual_private_server)).
 
-Fundamentally, it is just a file server and some services such as a web server, smtp server, etc. with tight permissions based on the Identity Transfer Protocol - Secure (ITPS) protocal.
+Fundamentally, it is just a file server and some services such as a web server, smtp server, etc. with tight permissions based on the Identity Transfer Protocol - Secure ([ITPS](https://github.com/varasys/ITPS)) protocal.
 
 MyCloud will act as a users "hub" for all their digital devices, and will have negligable switching costs to move to another VPS, and to back-up all data to a hard drive at the users home (for double backup and safe keeping).
 
