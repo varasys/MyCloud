@@ -16,3 +16,8 @@ As a "hub" MyCloud will also facilitate Tor style obfuscation, and Torrent style
 Users MyCloud's can be linked (using tokens) so items posted on one users MyCloud can be fetched by another users MyCloud and show up in their "feed".
 
 So basically, it is a combination Facebook-like service, cloud service, VPN service with 100% backup and disaster recovery based on a secure network protocol.
+
+## Team Skills Needed
+1. Linux Developers
+2. ArchLinux Specialists (assuming ArchLinux base)
+3. Specialists for each server component (web server (nginx?), email, etc.)
